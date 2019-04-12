@@ -1,4 +1,5 @@
-
+// Suhrab Yeawary
+// Section 2
 //#include "Person.cpp"
 #include "Person.h"
 #include <iostream> 
